@@ -1,16 +1,23 @@
-## Hi there 👋
+- 전자책 웹뷰어(PDF/COMIC/EPUB) 기능 개발 및 성능 최적화  
+- 2만 줄 규모 레거시 리팩토링(core/loader/engine 구조화) 경험  
+- 관리자 CMS 페이지 개발 및 운영  
+- API 기반 UI 개발 및 서비스 기능 고도화  
+- Node.js 기반 서버 운영(PM2, Linux), Gulp 기반 빌드 환경 경험
 
-<!--
-**psh9321/psh9321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Frontend
+- JavaScript(ES6+), TypeScript  
+- React, Next.js  
+- Zustand, React Query  
+- HTML5, CSS3, Sass  
+- jQuery (레거시 구조 개선 경험)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend / Infra
+- Node.js, Express  
+- PM2, Linux 환경 운영  
+- Gulp 빌드 환경  
+- REST API 연동
+
+
+포트폴리오 
+ - https://www.notion.so/19940711-2238d438af7180959133dc45764c17a7
