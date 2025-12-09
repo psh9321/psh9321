@@ -6,11 +6,10 @@
 
 
 ### Frontend
-- JavaScript(ES6+), TypeScript  
+- JavaScript(ES6+) | TypeScript / jQuery
 - React, Next.js  
 - Zustand, React Query  
 - HTML5, CSS3, Sass  
-- jQuery (레거시 구조 개선 경험)
 
 ### Backend / Infra
 - Node.js, Express  
