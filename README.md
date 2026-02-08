@@ -6,6 +6,7 @@
 - Node.js, Express
 - GitHub Actions, Gulp
 - Vercel
+- jest, vitest
 
 ### 실무 경험
 - 전자책 웹뷰어(PDF/COMIC/EPUB) 기능 개발 및 성능 최적화  
