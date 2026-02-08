@@ -2,7 +2,7 @@
 - HTML5, CSS3, Sass, Styled-Components
 - JavaScript (ES6+), TypeScript
 - jQuery, React, Next.js
-- ustand, React Query
+- zustand, React Query
 - Node.js, Express
 - GitHub Actions, Gulp
 - Vercel
