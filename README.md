@@ -1,5 +1,5 @@
 ### 기술스택
-- HTML5, CSS3, Sass, Styled-Components
+- HTML5, CSS3, Sass, Styled-Components, tailwind
 - JavaScript (ES6+), TypeScript
 - jQuery, React, Next.js
 - zustand, React Query
