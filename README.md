@@ -9,12 +9,10 @@
 - jest, vitest
 
 ### 실무 경험
-- 전자책 웹뷰어(PDF/COMIC/EPUB) 기능 개발 및 성능 최적화  
 - 2만 줄 규모 레거시 리팩토링(core/loader/engine 구조화) 경험  
 - API 기반 UI 개발 및 서비스 기능 고도화  
 - Node.js 기반 서버 운영(PM2, Linux), Gulp 기반 빌드 환경 경험
 - 리액트 기반의 CMS 페이지 개발 및 운영
-- 보안 취약점 진단 서비스 솔루션 신규 기능/페이지 개발
 
 ### 포트폴리오 
  - https://www.notion.so/19940711-2238d438af7180959133dc45764c17a7
