@@ -1,5 +1,11 @@
 ## 기술스택
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs)
+![Styling](https://skillicons.dev/icons?i=sass,styled,tailwind)
+
+![Language](https://skillicons.dev/icons?i=js,ts)
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs)
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,hono)
 
 
 ## 실무 경험
