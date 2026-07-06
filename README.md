@@ -10,7 +10,6 @@
 </a>
 <br/>
 <br/>
-<br/>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
   <img src="https://skillicons.dev/icons?i=js" />
 </a>
@@ -18,7 +17,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ts" />
 </a>
-<br/>
 <br/>
 <br/>
 <a href="https://react.dev/" target="_blank">
@@ -30,7 +28,6 @@
 </a>
 <br/>
 <br/>
-<br/>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank">
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
 </a>
@@ -38,7 +35,6 @@
 <a href="https://tanstack.com/query/latest" target="_blank">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge" />
 </a>
-<br/>
 <br/>
 <br/>
 <a href="https://nodejs.org/" target="_blank">
