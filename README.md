@@ -15,4 +15,4 @@
 
 
 ### 포트폴리오 
- - https://www.notion.so/19940711-2238d438af7180959133dc45764c17a7
+ - https://app.notion.com/p/3958d438af7180efb856d9ba88c41c48
