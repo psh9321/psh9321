@@ -1,5 +1,4 @@
 ## 기술스택
-## 🛠 Tech Stack
 
 <a href="https://sass-lang.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=sass" />
