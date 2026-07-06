@@ -1,5 +1,5 @@
 ## 기술스택
-![Styling](https://skillicons.dev/icons?i=sass,styled,tailwind)
+![Styling](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind)
 
 ![Language](https://skillicons.dev/icons?i=js,ts)
 
