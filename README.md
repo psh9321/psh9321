@@ -1,9 +1,5 @@
 ## 기술스택
-- HTML5, CSS3, Sass, Styled-Components, tailwind
-- JavaScript (ES6+), TypeScript
-- jQuery, React, Next.js
-- Zustand, React Query
-- Node.js, Express, Hono
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs)
 
 
 ## 실무 경험
