@@ -1,49 +1,9 @@
 ## 기술스택
-<div style="display:flex; gap:12px; align-items:center;">
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sass" />
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>  
-</div>
-<div style="display:flex; gap:12px; align-items:center;">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>  
-</div>
-<div style="display:flex; gap:12px; align-items:center;">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-</div>
-<div style="display:flex; gap:12px; align-items:center;">
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge" />
-  </a>
-</div>
-<div style="display:flex; gap:12px; align-items:center;">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-  <a href="https://hono.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hono" />
-  </a>
-</div>
+ - HTML5, CSS3, Sass, Styled-Components, tailwind
+ - JavaScript (ES6+), TypeScript
+ - jQuery, React, Next.js
+ - Zustand, React Query
+ - Node.js, Express, Hono
 
 
 
