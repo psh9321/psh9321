@@ -8,6 +8,3 @@
 
 ## 포트폴리오
  - https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48
-
-## 경력기술서
- - https://app.notion.com/p/19940711-3d78d438af71800bac48cab255b9f1a9
