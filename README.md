@@ -15,10 +15,11 @@ React와 Next.js를 중심으로 사용자 경험을 고민하며
 
 ---
 
-<a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48">
-  <img src="portfolio.svg" alt="portfolio 🖱" />
-</a>
 
+### [portfolio 🖱](https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48)
+
+<br/>
+<br/>
 <br/>
 
 ### Tech Stacks 🛠️
