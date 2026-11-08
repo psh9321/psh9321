@@ -15,7 +15,14 @@ React와 Next.js를 중심으로 사용자 경험을 고민하며
 
 ---
 
-<a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48" target="_blank" rel="noopener noreferrer" style="font-weight:700">🙋‍♂️ 포트폴리오</a>
+<a
+  href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48"
+  target="_blank"
+  rel="noopener noreferrer"
+  style="color: #ffffff; text-decoration: none; font-size: 26px; font-weight: 700;"
+>
+  🙋‍♂️ 포트폴리오
+</a>
 
 <br/>
 
