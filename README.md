@@ -22,33 +22,29 @@ React와 Next.js를 중심으로 사용자 경험을 고민하며
 <br/>
 
 ### Tech Stacks 🛠️
-
+<div align="left">
   <!-- Markup & Styling -->
   <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind&theme=dark" />
-
   <br/>
-
+  <br/>
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-
   <br/>
-
+  <br/>
   <!-- Build Tools -->
   <img src="https://skillicons.dev/icons?i=webpack,gulp&theme=dark" />
-
   <br/>
-
+  <br/>
   <!-- Libraries & Frameworks -->
   <img src="https://skillicons.dev/icons?i=jquery,react,nextjs&theme=dark" />
-
   <br/>
-
+  <br/>
   <!-- State Management -->
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-
   <br/>
-
+  <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />  
+</div>
 
 </div>
