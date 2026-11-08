@@ -1,6 +1,3 @@
-
-<div align="center">
-
 # 안녕하세요. 👋 프론트엔드 개발자 박수현입니다.
 
 - React와 Next.js를 중심으로 사용자 경험을 고민하며 **유지보수하기 쉽고 확장 가능한 웹 애플리케이션**을 개발합니다.
@@ -38,4 +35,3 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 
-</div>
