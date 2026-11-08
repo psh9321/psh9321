@@ -15,9 +15,7 @@ React와 Next.js를 중심으로 사용자 경험을 고민하며
 
 ---
 
-### portfolio 🖱️
-
-[🙋‍♂️ 포트폴리오 보러가기]([포트폴리오_URL](https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48))
+<a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48" target="_blank" rel="noopener noreferrer" style="font-weight:700">🙋‍♂️ 포트폴리오</a>
 
 <br/>
 
