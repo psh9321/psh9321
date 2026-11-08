@@ -39,10 +39,6 @@ React와 Next.js를 중심으로 사용자 경험을 고민하며
 <img src="https://skillicons.dev/icons?i=jquery,react,nextjs&theme=dark" />
 <br/>
 <br/>
-<!-- State Management -->
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-<br/>
-<br/>
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />  
 
