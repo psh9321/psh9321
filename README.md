@@ -60,34 +60,4 @@ React와 Next.js를 중심으로 사용자 경험을 고민하며
 <br/>
 <br/>
 
-## Featured Projects 🚀
-
-### 🧠 MBTI Test
-
-React 기반의 성향 분석 테스트 웹 애플리케이션
-
-`React` `TypeScript` `Hono` `Zustand`
-
-사용자 테스트 결과를 분석하고,  
-결과 페이지와 사용자 인터랙션을 구현했습니다.
-
-[🌐 Website](https://mbti.psh9321.cloud/)
-
-<br/>
-
-### 🎨 Exhibition Info
-
-전시정보 검색 및 지도 기반 탐색 서비스
-
-`Next.js` `TypeScript` `TanStack Query` `Kakao Maps`
-
-무한 스크롤과 검색 상태 관리를 적용하고,  
-지도 기반으로 전시정보를 탐색할 수 있도록 구현했습니다.
-
-[🌐 Website](https://exhibition.psh9321.cloud/)
-
-<br/>
-
----
-
 </div>
