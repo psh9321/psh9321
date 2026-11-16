@@ -32,8 +32,8 @@
       </h3>
       <p>전시 및 문화정보 탐색 서비스</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
       </p>
     </td>
   </tr>
