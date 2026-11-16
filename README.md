@@ -8,12 +8,11 @@
 
 <h2>📌 Projects</h2>
 
-<!-- Frontend -->
 <h3>Frontend</h3>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/react-mbti">
           react-mbti
@@ -25,7 +24,7 @@
         <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/next-cultures">
           next-cultures
@@ -40,12 +39,11 @@
   </tr>
 </table>
 
-<!-- Backend -->
 <h3>Backend</h3>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/next-cultures-backend">
           next-cultures-backend
@@ -56,16 +54,14 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
-<!-- Library -->
 <h3>Library</h3>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/parksuhyun9321-use-media-query">
           use-media-query
@@ -76,7 +72,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/parksuhyun9321-worker-task">
           worker-task
