@@ -13,8 +13,6 @@
 
 <br/>
 
-<h2>📌 Projects</h2>
-
 <h3>Frontend</h3>
 
 <table>
