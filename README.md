@@ -64,7 +64,7 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/parksuhyun9321-use-media-query">
-          use-media-query
+          @parksuhyun9321/use-media-query
         </a>
       </h3>
       <p>반응형 미디어 쿼리 커스텀 훅</p>
@@ -75,7 +75,7 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/parksuhyun9321-worker-task">
-          worker-task
+          parksuhyun9321/worker-task
         </a>
       </h3>
       <p>Web Worker 기반 작업 처리 라이브러리</p>
