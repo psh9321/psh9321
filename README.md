@@ -56,7 +56,7 @@
           Discover Cultures Backend Server
         </a>
       </h3>
-      <p>전시 및 문화정보 서비스 백엔드 서버</p>
+      <p>전시 및 문화정보 탐색 서비스 백엔드 서버</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       </p>
