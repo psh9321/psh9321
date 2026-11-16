@@ -8,8 +8,6 @@
   </a>입니다.
 </h1>
 
-<br/>
-
 <h3>💡 Key Achievements</h3>
 
 - <a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48?p=f7a8d438af718265850301babfaa6a47&pm=c">JWT 기반 사용자 정보 조회를 회원정보 API 방식으로 개선하여, 책임 분리와 보안성을 강화한 경험이 있습니다.</a>
