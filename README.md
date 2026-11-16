@@ -5,11 +5,17 @@
 
 <br/>
 
-<table>
+
+<h2>📌 Projects</h2>
+
+<!-- Frontend -->
+<h3>Frontend</h3>
+
+<table width="50%">
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/USERNAME/react-mbti">
+        <a href="https://github.com/psh9321/react-mbti">
           react-mbti
         </a>
       </h3>
@@ -21,13 +27,63 @@
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/USERNAME/next-cultures">
+        <a href="https://github.com/psh9321/next-cultures">
           next-cultures
         </a>
       </h3>
       <p>전시 및 문화정보 탐색 서비스</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Backend -->
+<h3>Backend</h3>
+
+<table width="50%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/psh9321/next-cultures-backend">
+          next-cultures-backend
+        </a>
+      </h3>
+      <p>전시정보 서비스 백엔드 API</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<!-- Library -->
+<h3>Library</h3>
+
+<table width="50%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/psh9321/parksuhyun9321-use-media-query">
+          use-media-query
+        </a>
+      </h3>
+      <p>반응형 미디어 쿼리 커스텀 훅</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/psh9321/parksuhyun9321-worker-task">
+          worker-task
+        </a>
+      </h3>
+      <p>Web Worker 기반 작업 처리 라이브러리</p>
+      <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       </p>
     </td>
