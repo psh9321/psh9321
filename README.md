@@ -1,4 +1,12 @@
-# 안녕하세요. 👋 프론트엔드 개발자 <a href="https://github.com/psh9321/I.m...">박수현</a>입니다.
+<h1>
+  안녕하세요. 👋 프론트엔드 개발자
+  <a
+    href="https://github.com/psh9321/I.m..."
+    style="color: #ffffff; text-decoration: underline; text-decoration-color: #ffffff;"
+  >
+    박수현
+  </a>입니다.
+</h1>
 
 - React와 Next.js를 중심으로 사용자 경험을 고민하며 **유지보수하기 쉽고 확장 가능한 웹 애플리케이션**을 개발합니다.
 - 복잡한 코드를 단순한 구조로 개선하고, **명확한 책임 분리와 가독성 높은 코드**를 지향합니다.
