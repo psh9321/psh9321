@@ -5,28 +5,34 @@
 
 <br/>
 
-## Tech Stacks 🛠️
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-<br/>
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
-<br/>
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-<br/>
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/USERNAME/react-mbti">
+          react-mbti
+        </a>
+      </h3>
+      <p>React 기반 MBTI 테스트 서비스</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/USERNAME/next-cultures">
+          next-cultures
+        </a>
+      </h3>
+      <p>전시 및 문화정보 탐색 서비스</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ### [🖱️ Portfolio](https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48)
