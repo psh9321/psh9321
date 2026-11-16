@@ -15,7 +15,7 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/react-mbti">
-          react-mbti
+          MBTI + 성격 하위 유형 검사
         </a>
       </h3>
       <p>React 기반 MBTI 테스트 서비스</p>
@@ -27,7 +27,7 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/next-cultures">
-          next-cultures
+          Discover Cultures
         </a>
       </h3>
       <p>전시 및 문화정보 탐색 서비스</p>
@@ -46,10 +46,10 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/next-cultures-backend">
-          next-cultures-backend
+          Discover Cultures Backend Server
         </a>
       </h3>
-      <p>전시정보 서비스 백엔드 API</p>
+      <p>전시 및 문화정보 서비스 백엔드 서버</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       </p>
@@ -78,7 +78,7 @@
           parksuhyun9321/worker-task
         </a>
       </h3>
-      <p>Web Worker 기반 작업 처리 라이브러리</p>
+      <p>함수 기반 워커 유틸리티</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       </p>
