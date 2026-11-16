@@ -11,7 +11,7 @@
 <!-- Frontend -->
 <h3>Frontend</h3>
 
-<table width="50%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>
@@ -43,7 +43,7 @@
 <!-- Backend -->
 <h3>Backend</h3>
 
-<table width="50%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>
@@ -63,7 +63,7 @@
 <!-- Library -->
 <h3>Library</h3>
 
-<table width="50%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>
