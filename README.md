@@ -48,7 +48,7 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/next-cultures">
-          Discover Cultures
+          Key Generator
         </a>
       </h3>
       <p>RSA 비대칭키, AES 대칭키 생성 페이지</p>
