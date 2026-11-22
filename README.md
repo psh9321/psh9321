@@ -28,7 +28,6 @@
       <p>React 기반 MBTI 테스트 서비스</p>
       <p><a href="https://mbti.psh9321.cloud">브라우저 열기</a></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
       </p>
     </td>
@@ -41,7 +40,6 @@
       <p>전시 및 문화정보 탐색 서비스</p>
       <p><a href="https://exhibition.psh9321.cloud/">브라우저 열기</a></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
       </p>
     </td>
@@ -56,7 +54,6 @@
       <p>RSA 비대칭키, AES 대칭키 생성 페이지</p>
       <p><a href="https://psh9321.github.io/webpack-key-generator/">브라우저 열기</a></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
       </p>
     </td>
@@ -75,7 +72,6 @@
       </h3>
       <p>전시 및 문화정보 탐색 서비스 백엔드 서버</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
       </p>
     </td>
@@ -94,7 +90,8 @@
       </h3>
       <p>반응형 미디어 쿼리 커스텀 훅</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/tsup-000000?style=flat&logoColor=white" alt="tsup" />
       </p>
     </td>
     <td width="400" valign="top">
@@ -105,7 +102,8 @@
       </h3>
       <p>함수 기반 워커 유틸리티</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/tsup-000000?style=flat&logoColor=white" alt="tsup" />
+        <img src="https://img.shields.io/badge/Vanilla_TS-3178C6?logo=typescript&logoColor=white" />
       </p>
     </td>
   </tr>
