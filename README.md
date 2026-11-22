@@ -47,7 +47,7 @@
   <tr>
     <td width="400" valign="top">
       <h3>
-        <a href="https://github.com/psh9321/next-cultures">
+        <a href="https://github.com/psh9321/webpack-key-generator">
           Key Generator
         </a>
       </h3>
