@@ -35,7 +35,7 @@
     <td width="400" valign="top">
       <h3>
         <a href="https://github.com/psh9321/next-cultures">
-          Discover Cultures
+          Discover Cultures Frontend
         </a>
       </h3>
       <p>전시 및 문화정보 탐색 서비스</p>
