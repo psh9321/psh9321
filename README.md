@@ -56,6 +56,7 @@
       <p><a href="https://psh9321.github.io/webpack-key-generator/">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vanilla_TS-3178C6?logo=typescript&logoColor=white" />
       </p>
     </td>
   </tr>
