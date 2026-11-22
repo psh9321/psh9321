@@ -29,6 +29,7 @@
       <p><a href="https://mbti.psh9321.cloud">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white" />
       </p>
     </td>
     <td width="400" valign="top">
