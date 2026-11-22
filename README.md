@@ -25,7 +25,7 @@
           MBTI + 성격 하위 유형 검사
         </a>
       </h3>
-      <p>React 기반 MBTI 테스트 서비스</p>
+      <p>MBTI 및 성격 하위 유형 테스트 서비스</p>
       <p><a href="https://mbti.psh9321.cloud">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
