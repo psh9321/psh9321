@@ -26,7 +26,7 @@
         </a>
       </h3>
       <p>React 기반 MBTI 테스트 서비스</p>
-      <p><a href="https://mbti.psh9321.cloud">브라우저 열기</a>/</p>
+      <p><a href="https://mbti.psh9321.cloud">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
@@ -39,7 +39,7 @@
         </a>
       </h3>
       <p>전시 및 문화정보 탐색 서비스</p>
-      <p><a href="https://exhibition.psh9321.cloud/">브라우저 열기</a>/</p>
+      <p><a href="https://exhibition.psh9321.cloud/">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
@@ -54,7 +54,7 @@
         </a>
       </h3>
       <p>RSA 비대칭키, AES 대칭키 생성 페이지</p>
-      <p><a href="https://psh9321.github.io/webpack-key-generator/">브라우저 열기</a>/</p>
+      <p><a href="https://psh9321.github.io/webpack-key-generator/">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
