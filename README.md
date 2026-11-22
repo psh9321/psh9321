@@ -90,8 +90,8 @@
       </h3>
       <p>반응형 미디어 쿼리 커스텀 훅</p>
       <p>
-        <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/tsup-000000?style=flat&logoColor=white" alt="tsup" />
+        <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
       </p>
     </td>
     <td width="400" valign="top">
