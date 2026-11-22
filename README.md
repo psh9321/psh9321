@@ -52,7 +52,7 @@
           Key Generator
         </a>
       </h3>
-      <p>RSA 비대칭키, AES 대칭키 생성 페이지</p>
+      <p>실무에서 암호화 및 복호화에 사용할 AES키와 RSA키 생성 서비스</p>
       <p><a href="https://psh9321.github.io/webpack-key-generator/">브라우저 열기</a></p>
       <p>
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
