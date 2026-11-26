@@ -12,7 +12,7 @@
 
 - <a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48?p=f7a8d438af718265850301babfaa6a47&pm=c">JWT 기반 사용자 정보 조회를 회원정보 API 방식으로 개선하여, 책임 분리와 보안성을 강화한 경험이 있습니다.</a>
 - <a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48?p=f558d438af7182d3bec801982a1a23ce&pm=c">대규모 리팩토링을 통해 유지보수성과 확장성을 개선한 경험이 있습니다.</a>
-- <a href="[https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48?p=f558d438af7182d3bec801982a1a23ce&pm=c](https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48?p=f558d438af7182d3bec801982a1a23ce&pm=c)">Canvas 관리 및 렌더링 방식을 최적화하여, Safari 환경에서 발생하던 메모리 누적 및 브라우저 크래시 문제를 해결한 경험이 있습니다.</a>
+- <a href="https://app.notion.com/p/19940711-3958d438af7180efb856d9ba88c41c48?p=f558d438af7182d3bec801982a1a23ce&pm=c">Canvas 관리 및 렌더링 방식을 최적화하여, Safari 환경에서 발생하던 메모리 누적 및 브라우저 크래시 문제를 해결한 경험이 있습니다.</a>
 
 
 
